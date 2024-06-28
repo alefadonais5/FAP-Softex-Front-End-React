@@ -16,11 +16,13 @@ numeros.pop();
 // Questão 6
 console.log(numeros.length);
 
-//Questão 7
+// Questão 7
 let frutas:string[] = ["Maçã", "Banana", "Laranja"];
 
+// Questão 8
+console.log(frutas[0]);
 
-
+// Questão 9
 
 
 
