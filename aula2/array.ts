@@ -16,7 +16,8 @@ numeros.pop();
 // Questão 6
 console.log(numeros.length);
 
-
+//Questão 7
+let frutas:string[] = ["Maçã", "Banana", "Laranja"];
 
 
 
@@ -25,8 +26,6 @@ console.log(numeros.length);
 
 
 /*
-5. Remova o último elemento do array "numeros" utilizando a função ".pop".
-6. Verifique o comprimento do array "numeros".
 7. Crie um novo array chamado "frutas" contendo as strings "maçã", "banana" e "laranja".
 8. Acesse o valor do primeiro elemento do array frutas.
 9. Adicione a string "uva" ao final do array frutas utilizando a função ".push".
