@@ -10,8 +10,11 @@ console.log(numeros[1]);
 // Questão 4
 numeros[2] = 10;
 
+// Questão 5
+numeros.pop();
 
-
+// Questão 6
+console.log(numeros.length);
 
 
 
