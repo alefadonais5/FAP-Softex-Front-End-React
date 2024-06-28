@@ -36,9 +36,10 @@ let aluno: Aluno = {
     idade: 28
 };
 
-let alunos = [];
+let alunos: Aluno [] = [];
 alunos.push(aluno);
 
+console.log(aluno);
 console.log(alunos);
 
 
