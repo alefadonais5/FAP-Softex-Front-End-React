@@ -39,14 +39,19 @@ let aluno: Aluno = {
 let alunos: Aluno [] = [];
 alunos.push(aluno);
 
-console.log(aluno);
-console.log(alunos);
+// Questão 11
+console.log(alunos[0].nome);
 
+// Questão 12
+alunos.push({nome: "Hazel", idade: 8}, {nome: "Chacha", idade: 5}, {nome: "Flash", idade: 1});
 
+// Questão 13
+let produtos:string[] = ["Café", "Arroz", "Leite", "Macarrão", "Feijão", "Biscoito", "Creme Dental", "Cebola", "Tomate", "Açucar"]
+console.log(produtos[2]);
+console.log(produtos[4]);
+console.log(produtos[6]);
+console.log(produtos[8]);
+console.log(produtos[10]);
 /*
-10. Crie um objeto chamado "aluno" com as propriedades "nome" e "idade" e atribua valores a elas.
-Em seguida, crie um array chamado "alunos" e adicione o objeto "aluno" a esse array.
-11. Acesse o valor da propriedade "nome" do primeiro elemento do array "alunos".
-12. Adicione mais três objetos do tipo "aluno" ao array "alunos".
 13. Crie um array chamando "produtos" contendo 10 produtos de supermercado. Em seguida, exiba no
 terminal apenas os produtos que ficaram em posições pares. */
