@@ -24,15 +24,25 @@ console.log(frutas[0]);
 
 // Questão 9
 frutas.push("Uva");
-console.log(frutas);
 
+//Questão 10
+type Aluno = {
+    nome: string;
+    idade: number;
+};
 
+let aluno: Aluno = {
+    nome: "Alef",
+    idade: 28
+};
+
+let alunos = [];
+alunos.push(aluno);
+
+console.log(alunos);
 
 
 /*
-7. Crie um novo array chamado "frutas" contendo as strings "maçã", "banana" e "laranja".
-8. Acesse o valor do primeiro elemento do array frutas.
-9. Adicione a string "uva" ao final do array frutas utilizando a função ".push".
 10. Crie um objeto chamado "aluno" com as propriedades "nome" e "idade" e atribua valores a elas.
 Em seguida, crie um array chamado "alunos" e adicione o objeto "aluno" a esse array.
 11. Acesse o valor da propriedade "nome" do primeiro elemento do array "alunos".
