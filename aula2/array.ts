@@ -23,6 +23,8 @@ let frutas:string[] = ["Maçã", "Banana", "Laranja"];
 console.log(frutas[0]);
 
 // Questão 9
+frutas.push("Uva");
+console.log(frutas);
 
 
 
