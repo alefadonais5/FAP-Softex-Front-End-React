@@ -52,6 +52,3 @@ console.log(produtos[4]);
 console.log(produtos[6]);
 console.log(produtos[8]);
 console.log(produtos[10]);
-/*
-13. Crie um array chamando "produtos" contendo 10 produtos de supermercado. Em seguida, exiba no
-terminal apenas os produtos que ficaram em posições pares. */
