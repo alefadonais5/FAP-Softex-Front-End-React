@@ -1,3 +1,4 @@
+//ajustar esse código para deixar as propriedades do objeto opcional com o simbolo "?"
 //Questão 1
 
 let pessoa = {
