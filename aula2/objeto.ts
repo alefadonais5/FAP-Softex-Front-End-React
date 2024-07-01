@@ -39,6 +39,12 @@ livro.ano = 1984;
 delete (livro as any).titulo;
 
 //Questão 10
+type Carro = {
+    marca: string 
+    //modelo: string | undefined;
+    modelo?: string;
+    ano: string;
+}
 let carro = {
     marca: "Toyota",
     modelo: "Corolla",
@@ -48,6 +54,6 @@ let carro = {
 console.log(carro); 
 
 // Questão 11 
-carro.modelo = undefined as any;
+carro.modelo = undefined;
 console.log(carro); 
 
