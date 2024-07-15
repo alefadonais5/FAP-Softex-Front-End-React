@@ -13,18 +13,6 @@
 //     alert("Você digitou " + numberArray.length + " números.");
 // }else{
 // }
-// 19. Receba a altura e o peso de uma pessoa digitados pelo usuário. Em seguida, calcule o seu índice demassa corporal (IMC) utilizando a fórmula: IMC = peso / (altura * altura) e exiba o resultado.
-var height = Number(prompt("Digite a altura: "));
-var weight = Number(prompt("Digite o peso: "));
-var imc = weight / (height * height);
-alert("O imc \u00E9 ".concat(imc));
-
-// 20. Peça ao usuário que digite o seu nome e verifique se ele contém mais de 5 caracteres.
-// 21. Solicite ao usuário que insira o seu estado civil e exiba uma mensagem apropriada (por exemplo:"Você é casado(a)", "Você é solteiro(a)", etc.).
-// 22. Receba a base e a altura de um retângulo digitados pelo usuário. Em seguida, calcule a sua área e exiba o resultado.
-// 23. Peça ao usuário que digite a sua cidade e verifique se ela começa com a letra "S" (ou outra letra de sua escolha).
-// 24. Solicite ao usuário que insira dois números decimais e calcule o resto da divisão entre eles.
-// 25. Solicite ao usuário um número decimal e converta-o em um número inteiro.
 // 26. Receba uma string contendo um número inteiro e some 10 a esse número, convertendo-o novamente para uma string antes de exibi-lo.
 // 27. Solicite ao usuário que digite uma data no formato "dd/mm/aaaa" e extraia o dia, o mês e o ano separadamente, convertendo-os em números inteiros.
 // 28. Receba o nome de uma cidade do usuário e concatene-o com o nome do estado para formar uma mensagem completa, como "Você mora em [cidade], [estado].".
@@ -36,3 +24,4 @@ alert("O imc \u00E9 ".concat(imc));
 // 34. Receba dois números inteiros do usuário e exiba a soma, a diferença, o produto e o quociente(divisão inteira) entre eles.
 // 35. Peça ao usuário para digitar a base e a altura de um triângulo. Em seguida, calcule e exiba a área do triângulo. 
 // 36. Receba o raio de uma circunferência digitado pelo usuário e calcule o seu perímetro (2 * π * raio).
+// 37. Receba a base e a altura de um retângulo digitados pelo usuário. Em seguida, calcule e exiba o perímetro do retângulo.
