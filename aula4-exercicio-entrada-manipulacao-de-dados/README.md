@@ -1,9 +1,5 @@
-# Atividade de Entrada e Manipulação de Dados
+# Atividade 3 - Entrada e Manipulação de Dados
 
-Este repositório contém a implementação de exercícios relacionados à entrada e manipulação de dados, conforme solicitado na Aula 03 do curso de Front-end oferecido pela SOFTEX Pernambuco.
-
-
-## Atividades Implementadas
 
 1. Implemente o código do slide de número 5.
 2. Implemente o código do slide de número 13.
