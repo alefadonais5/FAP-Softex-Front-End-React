@@ -2,7 +2,7 @@
 
 //Realizar o tratamento de erro com strings ou números
 
-const num = Number(prompt("Digite o número: "));
+const num = Number(prompt("Digite um número: "));
 
 if (num < 0) {
   alert(`${num} número negativo!`);
