@@ -1,23 +1,4 @@
 
-// 7. Desenvolva um programa que leia um caractere e verifique se ele é uma vogal ou uma consoante.
-const letra = prompt("Digite a letra");
-
-if(letra !== null && letra !== ""){
-    if (letra !== null && "aeiouAEIOU".indexOf(letra)){
-        alert(`${letra} é uma vogal.`);
-    }else{
-        alert(`${letra} é uma consoante.`);
-    } 
-}else{
-    alert(`Digite uma letra, por favor!`);
-}
-
-// 8. Faça um programa que receba três números e os imprima em ordem crescente.
-// 9. Elabore um programa que calcule o IMC (Índice de Massa Corporal) de uma pessoa, dado o peso e
-// a altura. Em seguida, exiba se a pessoa está abaixo do peso, com peso normal, com sobrepeso,
-// obesa ou muito obesa.
-// 10. Escreva um programa que receba um número de mês (1 a 12) e exiba o nome do mês
-// correspondente.
 // 11. Desenvolva um programa que leia o salário de um funcionário e calcule o valor do seu aumento.
 // Para salários superiores a R$ 1.500,00, o aumento deve ser de 10%. Caso contrário, o aumento é de
 // 15%.
