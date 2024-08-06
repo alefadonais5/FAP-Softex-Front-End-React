@@ -9,43 +9,39 @@ Este repositório contém a implementação das atividades propostas na Aula 05 
 
 #### Atividades
 
-1. **Descreva para que serve o comando "for"**  
-   O comando "for" é utilizado para repetir um bloco de código um número específico de vezes. Ele é ideal para situações onde o número de iterações é conhecido antes da execução do laço.
+**10. Faça um programa que exiba os números de 1 a 10 em ordem crescente.**
 
-2. **Como o comando "for" define o início de uma repetição?**  
-   O comando "for" define o início de uma repetição através de uma expressão de inicialização que é executada uma vez antes do início do laço.
+**11. Crie um programa que exiba os números de 10 a 1 em ordem decrescente.**
 
-3. **Como o comando "for" determina o fim da execução?**  
-   O comando "for" determina o fim da execução através de uma expressão de condição que é avaliada antes de cada iteração. Se a condição for falsa, o laço termina.
+**12. Elabore um programa que calcule a soma dos números de 1 a 100.**
 
-4. **Como ocorre a alteração do valor em cada repetição dentro da estrutura de repetição "for"?**  
-   A alteração do valor ocorre através de uma expressão de incremento, que é executada ao final de cada iteração.
+**13. Desenvolva um programa que exiba todos os números pares de 1 a 50.**
 
-5. **Implementação dos códigos dos slides**  
-   - **Slide 18**
-   - **Slide 26**
-   - **Slide 36**
-   - **Slide 38**
-   - **Slide 44**
+**14. Faça um programa que calcule o produto dos números de 1 a 5.**
 
-6. **Programas adicionais**
-   - Exibir os números de 1 a 10 em ordem crescente.
-   - Exibir os números de 10 a 1 em ordem decrescente.
-   - Calcular a soma dos números de 1 a 100.
-   - Exibir todos os números pares de 1 a 50.
-   - Calcular o produto dos números de 1 a 5.
-   - Exibir a tabuada do 7.
-   - Calcular a média de 5 notas digitadas pelo usuário.
-   - Exibir todos os múltiplos de 3 no intervalo de 1 a 50.
-   - Ler 10 números do usuário e exibir o maior e o menor valor digitado.
-   - Exibir os números ímpares de 1 a 100.
-   - Ler 5 notas de alunos e exibir quantos foram aprovados (nota maior ou igual a 7).
-   - Exibir a soma dos dígitos de um número inteiro fornecido pelo usuário.
-   - Ler um número inteiro e exibir todos os seus divisores.
-   - Calcular a média de altura de 5 pessoas.
-   - Exibir os números de 1 a 100, substituindo os múltiplos de 3 por "Fizz" e os múltiplos de 5 por "Buzz". Para os números múltiplos de ambos, utilizar "FizzBuzz".
-   - Ler um número inteiro e exibir a soma dos dígitos pares desse número.
-   - Ler um número inteiro e exibir o número invertido (ex.: 123 -> 321).
+**15. Crie um programa que exiba a tabuada do 7.**
+
+**16. Elabore um programa que calcule a média de 5 notas digitadas pelo usuário.**
+
+**17. Desenvolva um programa que exiba todos os múltiplos de 3 no intervalo de 1 a 50.**
+
+**18. Crie um programa que leia 10 números do usuário e exiba o maior e o menor valor digitado.**
+
+**19. Faça um programa que exiba os números ímpares de 1 a 100.**
+
+**20. Crie um programa que leia 5 notas de alunos e exiba quantos deles foram aprovados (nota maior ou igual a 7).**
+
+**21. Faça um programa que exiba a soma dos dígitos de um número inteiro fornecido pelo usuário.**
+
+**22. Elabore um programa que leia um número inteiro e exiba todos os seus divisores.**
+
+**23. Desenvolva um programa que calcule a média de altura de 5 pessoas.**
+
+**24. Faça um programa que exiba os números de 1 a 100, substituindo os múltiplos de 3 pela palavra "Fizz" e os múltiplos de 5 pela palavra "Buzz". Para os números que são múltiplos de ambos, utilize a palavra "FizzBuzz".**
+
+**25. Elabore um programa que leia um número inteiro e exiba a soma dos dígitos pares desse número.**
+
+**26. Faça um programa que leia um número inteiro e exiba o número invertido. Por exemplo, se o número lido for 123, o programa deve exibir 321.**
 
 
 #### Contribuições
