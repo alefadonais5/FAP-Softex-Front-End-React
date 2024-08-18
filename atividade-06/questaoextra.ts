@@ -3,7 +3,7 @@ let notas: Number[] = [];
 let input: Number | null = 0;
 
 while (input !== -1) {
-  input = prompt(`Digite a nota do aluno: `);
+  //input1 = prompt(`Digite a nota do aluno: `);
   if (input !== null) {
   }
 }
