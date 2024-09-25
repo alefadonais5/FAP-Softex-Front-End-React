@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;  /*Respeita o tamanho da caixa solicitado*/
+    /* border: 1px solid black; */
+}
+
+.post-container{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; /*espaçamento em todos os itens, só utiliza quando o display está flex*/
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between; /*Meche os elementos de forma igual na mesma linha*/
+}
+
+.post-header .left {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.post-header .left>div{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.post.icons{
+    display: flex;
+    font-size: 20px;
+}
