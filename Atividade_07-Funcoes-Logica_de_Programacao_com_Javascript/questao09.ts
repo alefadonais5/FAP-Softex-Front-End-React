@@ -2,7 +2,8 @@
 // percentual de desconto como parâmetros e retorne o valor com o desconto aplicado
 
 function calcularDesconto(value:number,percentage: number ) {
-    return (value*percentage)/100;
+    const discount = (value*percentage)/100;
+    return value - discount;
     
 }
 
